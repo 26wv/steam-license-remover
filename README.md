@@ -7,4 +7,4 @@ Create a proxy file in the same directory with the format ip:port
 # Install required gems, and run script
 > gem install httparty nokogiri
 > 
-> ruby remove_steam_licenses.rb
+> ruby remove-free-packages.rb
